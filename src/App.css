@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1f1f2e, #2c2c3f);
+  color: #f4f4f4;
+}
+
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.App-header {
+  margin-top: 5vh;
+  font-size: 1.6rem;
+  color: #07bfea;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #f4f4f4;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #444;
+  background-color: rgba(255, 255, 255, 0.02); /* subtle section contrast */
+  border-radius: 8px;
+}
