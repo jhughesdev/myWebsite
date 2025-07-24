@@ -1,0 +1,9 @@
+#contact a {
+  color: #07bfea;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: #4dffc1;
+  text-decoration: underline;
+}
