@@ -3,7 +3,7 @@ import { Typewriter } from 'react-simple-typewriter';
 export default function TypingIntro() {
   return (
     <h1>
-      Hi, I'm Jacob and I like{' '}
+      Hi, I'm Jacob and I enjoy{' '}
       <span style={{ color: '#07bfea', fontWeight: 'bold' }}>
         <Typewriter
         words={[

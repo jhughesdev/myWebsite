@@ -2,9 +2,9 @@ import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-import img1 from '../Assets/Images/Carousel/picturedRocksBright.heic';
-import img2 from '../Assets/Images/Carousel/picturedRocksBright.heic';
-import img3 from '../Assets/Images/Carousel/picturedRocksBright.heic';
+import img1 from '../Assets/Images/Carousel/picturedRocksBright.jpeg';
+import img2 from '../Assets/Images/Carousel/picturedRocksBright.jpeg';
+import img3 from '../Assets/Images/Carousel/picturedRocksBright.jpeg';
 
 function About() {
   return (
