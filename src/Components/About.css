@@ -1,0 +1,37 @@
+/* Remove white background from slides */
+.carousel .slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent !important; /* Override default white */
+}
+
+/* Image styling */
+.carousel .slide img {
+  max-height: 500px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+/* Section and text styling */
+section {
+  margin-bottom: 3rem;
+  background: transparent; /* Ensures section doesn't override page background */
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+p {
+  max-width: 800px;
+  margin: 1rem auto;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
