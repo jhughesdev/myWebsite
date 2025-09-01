@@ -6,7 +6,7 @@ function Projects() {
     <section id="projects">
       <h2>Projects</h2>
       <p>
-        Here’s a curated collection of things I’ve built, collaborated on, or am currently tinkering with.
+        Here’s a list of projects I've built
       </p>
       <ul>
         <li><strong>Portfolio Website</strong> – This very site you're browsing 👀</li>
@@ -14,7 +14,7 @@ function Projects() {
         <li><strong>Creative Coding Doodles</strong> – Experimental graphics using p5.js</li>
       </ul>
       <p>
-        More to come soon—my GitHub is always growing!
+        More to come soon!
       </p>
     </section>
   );

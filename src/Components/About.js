@@ -3,7 +3,6 @@ import { Carousel } from 'react-responsive-carousel';
 import './About.css';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-// 🔄 Utility to import all images from a directory
 function importAllImages(r) {
   return r.keys().map((key) => ({
     src: r(key),
@@ -16,7 +15,6 @@ const travelImages = importAllImages(require.context('../Assets/Images/Carousel/
 const foodImages = importAllImages(require.context('../Assets/Images/Carousel/Food', false, /\.(png|jpe?g|svg)$/));
 const sportsImages = importAllImages(require.context('../Assets/Images/Carousel/Sports', false, /\.(png|jpe?g|svg)$/));
 
-// 🧩 Reusable Carousel Section
 function CarouselSection({ title, images, description }) {
   return (
     <section>
@@ -33,7 +31,6 @@ function CarouselSection({ title, images, description }) {
   );
 }
 
-// 🧠 Main About Component
 function About() {
   return (
     <section id="about">
