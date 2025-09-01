@@ -2,27 +2,34 @@ import { Typewriter } from 'react-simple-typewriter';
 
 export default function TypingIntro() {
   return (
-    <h1>
-      Hi, I'm Jacob and I enjoy{' '}
-      <span style={{ color: '#07bfea', fontWeight: 'bold' }}>
+    <div>
+      <h1 style={{ margin: 0 }}>Hi, I'm Jacob and I enjoy</h1>
+
+      <div
+        style={{
+          color: '#07bfea',
+          fontWeight: 'bold',
+          fontSize: '3rem',
+        }}
+      >
         <Typewriter
-        words={[
-          'Golfing',
-          'Investing',
-          'Dogs',
-          'Coding',
-          'Detroit Sports',
-          'Traveling',
-          'Lifting Weights',
-          'Playing Video Games',
-          'Problem Solving',
-          'Michigan State Sports',
-          'Playing Chess',
-          'All Types of Food',
-          'Fantasy Football',
-          'Cars',
-          'Listening to Music'
-        ]}
+          words={[
+            'Golfing',
+            'Investing',
+            'Dogs',
+            'Coding',
+            'Detroit Sports',
+            'Traveling',
+            'Lifting Weights',
+            'Video Games',
+            'Problem Solving',
+            'MSU Sports',
+            'Chess',
+            'Unique Foods',
+            'Fantasy Football',
+            'Cars',
+            'Music',
+          ]}
           loop={0}
           cursor
           cursorStyle="|"
@@ -30,7 +37,8 @@ export default function TypingIntro() {
           deleteSpeed={50}
           delaySpeed={2000}
         />
-      </span>
-    </h1>
+      </div>
+
+    </div>
   );
 }
