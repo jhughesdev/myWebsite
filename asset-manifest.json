@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myWebsite/static/css/main.2e7aa800.css",
-    "main.js": "/myWebsite/static/js/main.9bb175d0.js",
+    "main.js": "/myWebsite/static/js/main.def795d1.js",
     "static/js/453.052877a7.chunk.js": "/myWebsite/static/js/453.052877a7.chunk.js",
     "static/media/UP-Waterfall.jpeg": "/myWebsite/static/media/UP-Waterfall.7f1e7cf8549e1aabb81b.jpeg",
     "static/media/picturedRocksBright.jpeg": "/myWebsite/static/media/picturedRocksBright.acf9d22a9d14a2d0f80b.jpeg",
@@ -15,19 +15,25 @@
     "static/media/skyDeck.jpeg": "/myWebsite/static/media/skyDeck.05daedf7937b02ba4792.jpeg",
     "static/media/caliBeach.jpeg": "/myWebsite/static/media/caliBeach.712c59a49746b3fb7188.jpeg",
     "static/media/izzo.jpeg": "/myWebsite/static/media/izzo.d4073db4c0aea00149f6.jpeg",
+    "static/media/chicagoFerrisWheel.jpeg": "/myWebsite/static/media/chicagoFerrisWheel.0d43c0a025fa510c64da.jpeg",
     "static/media/arizona.jpeg": "/myWebsite/static/media/arizona.a8af26e2336952f3939e.jpeg",
     "static/media/downtownDetroit.jpeg": "/myWebsite/static/media/downtownDetroit.0a2af61a3641de020330.jpeg",
     "static/media/mediterreaneanTaco.jpeg": "/myWebsite/static/media/mediterreaneanTaco.365a328e96967a6cc63f.jpeg",
     "static/media/gretzky.jpeg": "/myWebsite/static/media/gretzky.ae221d3a98747f5a47ae.jpeg",
     "static/media/MSUvsUmichBasketball.jpeg": "/myWebsite/static/media/MSUvsUmichBasketball.354882736b0537d9fe57.jpeg",
+    "static/media/MSU-Football-Sunset.jpeg": "/myWebsite/static/media/MSU-Football-Sunset.8a4f7cd34eb7dbf03fb0.jpeg",
     "static/media/homemadeRibeye.jpeg": "/myWebsite/static/media/homemadeRibeye.d04047591646f598a70d.jpeg",
+    "static/media/daytime-msu-football.jpeg": "/myWebsite/static/media/daytime-msu-football.3a875b91371429438607.jpeg",
     "static/media/greenWater-UP.jpeg": "/myWebsite/static/media/greenWater-UP.1de2ce62fdf2b46e27fb.jpeg",
     "static/media/floridaPoBoy.jpeg": "/myWebsite/static/media/floridaPoBoy.a1701a795ee95c330fed.jpeg",
     "static/media/nachos.jpeg": "/myWebsite/static/media/nachos.5fe908b4626bfeaaf5f6.jpeg",
+    "static/media/lionsGame1.jpeg": "/myWebsite/static/media/lionsGame1.345995769fca9966f132.jpeg",
     "static/media/cookingCheesesteak.jpeg": "/myWebsite/static/media/cookingCheesesteak.2a717fde1adcc0bcc661.jpeg",
+    "static/media/evening-MSU-Football.jpeg": "/myWebsite/static/media/evening-MSU-Football.e7f5baac4e78d486cac2.jpeg",
     "static/media/canadaSteak.jpeg": "/myWebsite/static/media/canadaSteak.66fd4ea5554d4a555376.jpeg",
     "static/media/goldenGateBridge.jpeg": "/myWebsite/static/media/goldenGateBridge.ddd938ad9b3f89aff94b.jpeg",
     "static/media/UP-Beach.jpeg": "/myWebsite/static/media/UP-Beach.d5284ea4b849b2ac7f14.jpeg",
+    "static/media/bahamas-resort.jpeg": "/myWebsite/static/media/bahamas-resort.60b6626853aba3bf5773.jpeg",
     "static/media/homemadeTenders.jpeg": "/myWebsite/static/media/homemadeTenders.7af32e4dafe36ddcb321.jpeg",
     "static/media/zaxbys.jpeg": "/myWebsite/static/media/zaxbys.aae188d505be22885289.jpeg",
     "static/media/floridaStrawberryShake.jpeg": "/myWebsite/static/media/floridaStrawberryShake.53d1003ff840488cd87c.jpeg",
@@ -39,11 +45,11 @@
     "static/media/LinkedInLogo.png": "/myWebsite/static/media/LinkedInLogo.e25e90e0535e1d47a668.png",
     "index.html": "/myWebsite/index.html",
     "main.2e7aa800.css.map": "/myWebsite/static/css/main.2e7aa800.css.map",
-    "main.9bb175d0.js.map": "/myWebsite/static/js/main.9bb175d0.js.map",
+    "main.def795d1.js.map": "/myWebsite/static/js/main.def795d1.js.map",
     "453.052877a7.chunk.js.map": "/myWebsite/static/js/453.052877a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e7aa800.css",
-    "static/js/main.9bb175d0.js"
+    "static/js/main.def795d1.js"
   ]
 }
