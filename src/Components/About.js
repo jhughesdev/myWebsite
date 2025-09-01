@@ -15,9 +15,9 @@ function importAllImages(r) {
 }
 
 // Grab images from each category
-const travelImages = importAllImages(require.context('../Assets/Images/Carousel/Travel', false, /\.(png|jpe?g|svg)$/));
-const foodImages = importAllImages(require.context('../Assets/Images/Carousel/Food', false, /\.(png|jpe?g|svg)$/));
-const sportsImages = importAllImages(require.context('../Assets/Images/Carousel/Sports', false, /\.(png|jpe?g|svg)$/));
+const travelImages = importAllImages(require.context('../Assets/Images/Carousel/Travel', false, /\.(png|jpeg|svg)$/));
+const foodImages = importAllImages(require.context('../Assets/Images/Carousel/Food', false, /\.(png|jpeg|svg)$/));
+const sportsImages = importAllImages(require.context('../Assets/Images/Carousel/Sports', false, /\.(png|jpeg|svg)$/));
 
 function CarouselSection({ title, images, description }) {
   return (

@@ -3,13 +3,14 @@ import { Typewriter } from 'react-simple-typewriter';
 export default function TypingIntro() {
   return (
     <div>
-      <h1 style={{ margin: 0 }}>Hi, I'm Jacob and I enjoy</h1>
+      <h1 style={{ margin: 0, fontSize: '2.5rem' }}>Hi,</h1>
+      <h1 style={{ margin: 0, fontSize: '2.5rem' }}>I'm Jacob and I enjoy</h1>
 
       <div
         style={{
           color: '#07bfea',
           fontWeight: 'bold',
-          fontSize: '3rem',
+          fontSize: '2.5rem',
         }}
       >
         <Typewriter
