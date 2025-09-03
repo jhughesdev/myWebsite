@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myWebsite/static/css/main.2e7aa800.css",
-    "main.js": "/myWebsite/static/js/main.ec7d0aed.js",
+    "main.js": "/myWebsite/static/js/main.deaeb73a.js",
     "static/js/453.052877a7.chunk.js": "/myWebsite/static/js/453.052877a7.chunk.js",
     "static/media/UP-Waterfall.jpeg": "/myWebsite/static/media/UP-Waterfall.7f1e7cf8549e1aabb81b.jpeg",
     "static/media/picturedRocksBright.jpeg": "/myWebsite/static/media/picturedRocksBright.acf9d22a9d14a2d0f80b.jpeg",
@@ -17,9 +17,9 @@
     "static/media/chicagoFerrisWheel.jpeg": "/myWebsite/static/media/chicagoFerrisWheel.0d43c0a025fa510c64da.jpeg",
     "static/media/arizona.jpeg": "/myWebsite/static/media/arizona.a8af26e2336952f3939e.jpeg",
     "static/media/downtownDetroit.jpeg": "/myWebsite/static/media/downtownDetroit.0a2af61a3641de020330.jpeg",
-    "static/media/watermelonFeta.jpg": "/myWebsite/static/media/watermelonFeta.a19780eab2e9039a8e26.jpg",
-    "static/media/nashvilleBurger.jpg": "/myWebsite/static/media/nashvilleBurger.c5c1e61a23b8aaab6b3a.jpg",
-    "static/media/chicagoPizza.jpg": "/myWebsite/static/media/chicagoPizza.0a085501906d471fd18d.jpg",
+    "static/media/watermelonFeta.jpeg": "/myWebsite/static/media/watermelonFeta.a19780eab2e9039a8e26.jpeg",
+    "static/media/nashvilleBurger.jpeg": "/myWebsite/static/media/nashvilleBurger.c5c1e61a23b8aaab6b3a.jpeg",
+    "static/media/chicagoPizza.jpeg": "/myWebsite/static/media/chicagoPizza.0a085501906d471fd18d.jpeg",
     "static/media/gretzky.jpeg": "/myWebsite/static/media/gretzky.ae221d3a98747f5a47ae.jpeg",
     "static/media/MSUvsUmichBasketball.jpeg": "/myWebsite/static/media/MSUvsUmichBasketball.354882736b0537d9fe57.jpeg",
     "static/media/MSU-Football-Sunset.jpeg": "/myWebsite/static/media/MSU-Football-Sunset.8a4f7cd34eb7dbf03fb0.jpeg",
@@ -40,11 +40,11 @@
     "static/media/LinkedInLogo.png": "/myWebsite/static/media/LinkedInLogo.e25e90e0535e1d47a668.png",
     "index.html": "/myWebsite/index.html",
     "main.2e7aa800.css.map": "/myWebsite/static/css/main.2e7aa800.css.map",
-    "main.ec7d0aed.js.map": "/myWebsite/static/js/main.ec7d0aed.js.map",
+    "main.deaeb73a.js.map": "/myWebsite/static/js/main.deaeb73a.js.map",
     "453.052877a7.chunk.js.map": "/myWebsite/static/js/453.052877a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e7aa800.css",
-    "static/js/main.ec7d0aed.js"
+    "static/js/main.deaeb73a.js"
   ]
 }
